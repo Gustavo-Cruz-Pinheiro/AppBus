@@ -1,8 +1,20 @@
 # App Bus
 
-![Status](http://img.shields.io/static/v1?label=Status&message=Decrepted&color=YELLOW&style=for-the-badge)
+![Status](http://img.shields.io/static/v1?label=Status&message=Decrepted&color=yellow&style=for-the-badge)
 
 O objetivo do projeto era fazer um aplicativo para quem utiliza ônibus público para ir para faculdade.
+
+![Demonstração da Aplicação](./demo.png)
+![Demonstração da Aplicação](./demo1.png)
+![Demonstração da Aplicação](./demo2.png)
+![Demonstração da Aplicação](./demo3.png)
+![Demonstração da Aplicação](./demo4.png)
+![Demonstração da Aplicação](./demo5.png)
+![Demonstração da Aplicação](./demo6.png)
+![Demonstração da Aplicação](./demo7.png)
+![Demonstração da Aplicação](./demo8.png)
+![Demonstração da Aplicação](./demo9.png)
+![Demonstração da Aplicação](./demo10.png)
 
 ## Autor
 
