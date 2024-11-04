@@ -1,6 +1,6 @@
 # App Bus
 
-![Status](http://img.shields.io/static/v1?label=Status&message=Decrepted&color=yellow&style=for-the-badge)
+![Status](http://img.shields.io/static/v1?label=Status&message=Descontinuado&color=yellow&style=for-the-badge)
 
 O objetivo do projeto era fazer um aplicativo para quem utiliza ônibus público para ir para faculdade.
 
