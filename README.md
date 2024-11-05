@@ -2,7 +2,7 @@
 
 ![Status](http://img.shields.io/static/v1?label=Status&message=Descontinuado&color=yellow&style=for-the-badge)
 
-O objetivo do projeto era fazer um aplicativo para quem utiliza ônibus público para ir para faculdade.
+O objetivo do projeto era fazer um aplicativo para quem utiliza ônibus público para ir para faculdade. Porém, ficou apenas na prototipação. 
 
 ![Demonstração da Aplicação](./demo.png)
 ![Demonstração da Aplicação](./demo1.png)
